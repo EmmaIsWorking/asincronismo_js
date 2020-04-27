@@ -8,7 +8,7 @@ Curso de Asincronismo en JavaScript impartido por [Oscar Barajas](https://github
 
 |Callback| Promesas| Async Await|
 | --- | --- | --- |
-|peticiones anidadas, call back hell, difincil de leer y entender, corre facilmente en cualquier navegador | facilmente enlazables,es poderoso, gran capacidad de trabjar con asincronismo, no majea excepcion, solo tiene un catch al final,propenso a error si no se retorna el siguiente llamado, es necesario transpilar para que funcine en todos los navegadores|se maneja el try catch,son mas facil de leer,es mas facil de entender,es necesario esperar que halgo suceda para ver, es necesario transpilar para que funcine en todos los navegadores  | 
+|Peticiones anidadas, call back hell, difícil de leer y entender, corre fácilmente en cualquier navegador | fácilmente enlazables, es poderoso, gran capacidad de trabajar con asincronismo, no maneja excepciones, solo tiene un catch al final, propenso a error si no se retorna el siguiente llamado, es necesario transpolar para que funcioné en todos los navegadores| maneja el try catch, son más fácil de leer, es más fácil de entender, es necesario esperar que algo suceda para ver, es necesario transpolar para que funcione en todos los navegadores  | 
 
 ## Conceptos
 
