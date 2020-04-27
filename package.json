@@ -8,7 +8,8 @@
     "callbacks:challenge": "node  src/callbacks/challenge.js",
     "promise": "node src/promise/index.js",
     "promise:challenge": "node src/promises/challenge.js ",
-    "asyncaweit": "node src/asyncawait/index.js"
+    "asyncaweit": "node src/asyncawait/index.js",
+    "asyncaweit:challenge": "node src/asyncawait/challenge.js"
   },
   "keywords": [
     "callbacks",

@@ -15,4 +15,4 @@ let fetchData=(urlApi)=>{
   })
 }
 
-module.exports = fetchData;
+module.exports = fetchData

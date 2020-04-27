@@ -20,7 +20,7 @@ const doSomething2 = async ()=>{
     const Something = await doSomethingAsync()
     console.log(Something)
   } catch (error) {
-    console.log(error);
+    console.error(error);
   }
 }
 
