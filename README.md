@@ -3,6 +3,12 @@
 ## Dependencias
 `npm install xmlhttprequest --save`
 
+## Callback VS Promesas Vs Async Await
+
+|Callback| Promesas| Async Await|
+| --- | --- | --- |
+|peticiones anidadas, call back hell, difincil de leer y entender, corre facilmente en cualquier navegador | facilmente enlazables,es poderoso, gran capacidad de trabjar con asincronismo, no majea excepcion, solo tiene un catch al final,propenso a error si no se retorna el siguiente llamado, es necesario transpilar para que funcine en todos los navegadores|se maneja el try catch,son mas facil de leer,es mas facil de entender,es necesario esperar que halgo suceda para ver, es necesario transpilar para que funcine en todos los navegadores  | 
+
 ## Conceptops
 
 ### API
