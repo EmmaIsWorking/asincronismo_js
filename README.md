@@ -1,5 +1,8 @@
 # Asincronismo en JavaScript
- 
+
+## Dependencias
+`npm install xmlhttprequest --save`
+
 ## Conceptops
 
 ### API
@@ -73,4 +76,5 @@ programa produce otro programa en otro lenguaje cuyo comportamiento es el mismo 
 original.
 
 ## Enlaces
+[Rick and Morty API](https://rickandmortyapi.com/api)
 [Callback function](https://developer.mozilla.org/es/docs/Glossary/Callback_function)

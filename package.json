@@ -12,5 +12,10 @@
     "asyncawait"
   ],
   "author": "Emmanuel García <dimple.pleod@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
